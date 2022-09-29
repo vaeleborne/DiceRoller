@@ -1,0 +1,10 @@
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.AssemblyReference.cache
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\DiceRoller\DiceRoller\obj\Debug\DiceRoller.DiceRoller.resources
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\DiceRoller\DiceRoller\obj\Debug\DiceRoller.Properties.Resources.resources
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.GenerateResource.cache
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
